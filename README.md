@@ -2,8 +2,7 @@
 
 I'm an enthusiastic, responsible Full Stack Web Developer, from Copenhagen, Denmark. Having a good understanding in HTML, CSS, Javascript, React, Nodejs, Expressjs, Knex.js, databases like MySQL and MongoDB, Storybook and Swagger. I also have an understanding of UX and Figma.
 
-Currently working as a intern in BlueBenu as web designer focusing mainly on react and design
-and also as a volunteer in The Considerate Consumer where I help them to move their website from CMS using React and Sass
+Currently working as a Software Engineer intern at Danske Bank focusing on react, typescript, apollo graphql and styled components
 
 
 
