@@ -16,7 +16,7 @@ My skills include:
 I'm currently seeking new opportunities to further develop my skills and contribute to exciting web projects. If you're interested in collaborating, feel free to reach out!
 
 - 🔭 I’m currently working on - creating an e-commerce website
-- 🌱 I’m currently learning - .Net, c#, Azure
+- 🌱 I’m currently learning - Next.js, Azure
 - 📫 How to reach me: - dinythomas@gmail.com
  <!---
 - 👯 I’m looking to collaborate on ...
