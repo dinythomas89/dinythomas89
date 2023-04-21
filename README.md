@@ -9,13 +9,15 @@ My skills include:
 * React
 * Node.js
 * Express.js
+* Asp.Net
+* C#
 * MySQL
 * Git
 * Jest
 
 I'm currently seeking new opportunities to further develop my skills and contribute to exciting web projects. If you're interested in collaborating, feel free to reach out!
 
-- 🔭 I’m currently working on - creating an e-commerce website
+- 🔭 I’m currently working on - creating adashboard application
 - 🌱 I’m currently learning - Next.js, Azure
 - 📫 How to reach me: - dinythomas@gmail.com
  <!---
