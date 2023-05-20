@@ -14,10 +14,11 @@ My skills include:
 * MySQL
 * Git
 * Jest
+* Power BI
 
 I'm currently seeking new opportunities to further develop my skills and contribute to exciting web projects. If you're interested in collaborating, feel free to reach out!
 
-- 🔭 I’m currently working on - creating adashboard application
+- 🔭 I’m currently working on - creating a dashboard application
 - 🌱 I’m currently learning - Next.js, Azure
 - 📫 How to reach me: - dinythomas@gmail.com
  <!---
