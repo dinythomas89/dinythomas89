@@ -1,24 +1,18 @@
-### Hi there 👋
+## Hi there 👋
 
-I'm Diny, a junior web developer passionate about creating clean, user-friendly web experiences. I love learning new technologies and applying them to build dynamic web applications.
+### 🚀 About me
 
-My skills include:
+👧 I'm Diny Thomas, a Frontend focused Full Stack Web Developer passionate about creating clean, user-friendly web experiences. 
 
-* HTML/CSS
-* JavaScript
-* React
-* Node.js
-* Express.js
-* Asp.Net
-* C#
-* MySQL
-* Git
-* Jest
-* Power BI
+🔥 I love learning new technologies and applying them to build dynamic web applications. In 2021, I started with **JavaScript**, **React**, **Nodejs** and **Figma**. Then, in 2022, I added **TypeScript**, **GraphQl**, **Jest**, various **state management libraries** and **SASS** to my skill set. In 2023, I expanded my knowledge to include **C#**, **ASP.NET**, **Nextjs**, **Tailwind CSS** and bit into Cloud and Azure fundamentals.
 
-I'm currently seeking new opportunities to further develop my skills and contribute to exciting web projects. If you're interested in collaborating, feel free to reach out!
+😅 Outsid the world of tech, I started to pratice fitness through dance movements and looking forward to start playing badminton.
 
-- 🔭 I’m currently working on - creating a dashboard application
+📚 I love reading books travelougs and novels. And listening to music and a walk through the nature is a way to relax myself.
+
+👁️ I'm currently seeking new opportunities to further develop my skills and contribute to exciting web projects. If you're interested in collaborating, feel free to reach out!
+
+- 🔭 I’m currently working on - working on a full stack website for applying jobs with react and Nodejs
 - 🌱 I’m currently learning - Next.js, Azure
 - 📫 How to reach me: - dinythomas@gmail.com
  <!---
