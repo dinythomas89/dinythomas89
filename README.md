@@ -8,7 +8,7 @@
 
 😅 Outsid the world of tech, I started to pratice fitness through dance movements and looking forward to start playing badminton.
 
-📚 I love reading books travelougs and novels. And listening to music and a walk through the nature is a way to relax myself.
+📚 I love reading books - travelougs and novels. Listening to music and a walk through the nature is a way to relax myself.
 
 👁️ I'm currently seeking new opportunities to further develop my skills and contribute to exciting web projects. If you're interested in collaborating, feel free to reach out!
 
